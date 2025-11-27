@@ -6,6 +6,14 @@ Computer with MATLAB software
 
 ## Theory:
 
+![IMG-20251127-WA0016](https://github.com/user-attachments/assets/856f7ed0-b63b-48dc-a8d3-ab0035008c56)
+
+![WhatsApp Image 2025-11-27 at 21 14 32_67c1af95](https://github.com/user-attachments/assets/cde096d2-611b-4874-858e-6a26bcb29931)
+![WhatsApp Image 2025-11-27 at 21 14 54_f0173078](https://github.com/user-attachments/assets/39592871-5253-4e8b-b763-1dec9f742d3b)
+
+![IMG-20251127-WA0012](https://github.com/user-attachments/assets/372107fd-f4ef-4df5-b160-c0d4e54b9115)
+
+
 ## Procedure:
 	Open MATLAB software
 	Open a new script file.
