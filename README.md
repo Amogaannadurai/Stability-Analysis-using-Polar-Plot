@@ -23,6 +23,7 @@ Computer with MATLAB software
 	Also determine the stability.
 
 ## Program: 
+```
 num=[10]
 den=[0.1 0.7 1 0]
 sys=tf(num,den)
@@ -40,7 +41,7 @@ elseif(Wpc == Wgc)
 else
     disp('unstable')
 end
-
+```
 
 ## Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b908f8a2-e425-48d8-80c1-e315fdce0d20" />
